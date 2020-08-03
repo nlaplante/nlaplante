@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm a freelance senior software developer mainly interested in frontend development. I have my [own company, Code ADN](https://github.com/code-adn), under which I do development conracts, but also photo shoots for local businesses.
+
+⚡ I'm a lifelong pianist 🎹 and proud owner of an amazing & beautiful 2020 [Mason & Hamlin Model 50](http://masonhamlin.com/pianos/mason-hamlin/model-50/) upgright piano. I'm also a long-time guitarist 🎸🤘. I love a lot of musical styles, but mainly classical, extreme metal, blues and I can have some eastern European music at some moments.
+
+🔭 I’m currently working at developing amazing frontend apps for [Discovery Inc.](https://www.discovery.com/).
+
+I maintained two projects over time here on GitHub:
+- [Angular Google Maps](https://angular-ui.github.io/angular-google-maps/#!/), now part of [Angular UI](https://angular-ui.github.io)
+- [Envelope](https://github.com/nlaplante/envelope), a budget management app for the Gnome Desktop written in Vala (now archived)
+
+
 <!--
 **nlaplante/nlaplante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

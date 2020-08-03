@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance senior software developer mainly interested in frontend development. I have my [own company, Code ADN](https://github.com/code-adn), under which I do development conracts, but also photo shoots for local businesses.
+I'm a freelance senior software developer mainly interested in frontend development. I have my [own company, Code ADN](http://codeadn.io), under which I do development conracts, but also photo shoots for local businesses.
 
 ⚡ I'm a lifelong pianist 🎹 and proud owner of an amazing & beautiful 2020 [Mason & Hamlin Model 50](http://masonhamlin.com/pianos/mason-hamlin/model-50/) upgright piano. I'm also a long-time guitarist 🎸🤘. I love a lot of musical styles, but mainly classical, extreme metal, blues and I can have some eastern European music at some moments.
 

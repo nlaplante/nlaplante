@@ -4,6 +4,8 @@ I'm a freelance senior software developer mainly interested in frontend developm
 
 ⚡ I'm a lifelong pianist 🎹 and proud owner of an amazing & beautiful 2020 [Mason & Hamlin Model 50](http://masonhamlin.com/pianos/mason-hamlin/model-50/) upgright piano. I'm also a long-time guitarist 🎸🤘. I love a lot of musical styles, but mainly classical, extreme metal, blues and I can have some eastern European music at some moments.
 
+I'm also an amateur photographer. I seek amazing landscapes and I love organizing car photo shoots. Follow me on Instagram [@nic.laplante](https://www.instagram.com/nic.laplante/) [@codeadn](https://www.instagram.com/codeadn/).
+
 🔭 I’m currently working at developing amazing frontend apps for [Discovery Inc.](https://www.discovery.com/).
 
 I maintained two projects over time here on GitHub:
